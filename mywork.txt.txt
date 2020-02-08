@@ -1,2 +1,18 @@
-Created the form for order page 
-and performed validations for the form
+My associate id:
+845084
+Other team members:
+845106 , 845107 , 845084 , 845140, 845112 
+Team lead:
+845106
+My Role in team:
+1. To develop orderpage and provide validations
+My development files:
+1. order.html
+2. validations.js
+I was strong in:
+1. HTML
+2. Documentation
+I was weak in:
+1. Javascript Validation
+Feedback:
+1. Able to read codesprint document 1 day in advance will help.
